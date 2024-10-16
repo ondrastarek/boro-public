@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Volnočasová organizace a dětské letní tábory BORO</title>
+    <link>https://boro.cz/tags/</link>
+    <description>Recent content in Tags on Volnočasová organizace a dětské letní tábory BORO</description>
+    <generator>Hugo</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://boro.cz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Průběh Tábora</title>
+      <link>https://boro.cz/tags/pr%C5%AFb%C4%9Bh-t%C3%A1bora/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/tags/pr%C5%AFb%C4%9Bh-t%C3%A1bora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hromadné Focení</title>
+      <link>https://boro.cz/tags/hromadn%C3%A9-focen%C3%AD/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/tags/hromadn%C3%A9-focen%C3%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jiné Akce</title>
+      <link>https://boro.cz/tags/jin%C3%A9-akce/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/tags/jin%C3%A9-akce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Souhrn Tábora</title>
+      <link>https://boro.cz/tags/souhrn-t%C3%A1bora/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/tags/souhrn-t%C3%A1bora/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

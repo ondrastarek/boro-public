@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Volnočasová organizace a dětské letní tábory BORO</title>
+    <link>https://boro.cz/categories/</link>
+    <description>Recent content in Categories on Volnočasová organizace a dětské letní tábory BORO</description>
+    <generator>Hugo</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://boro.cz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BORO2024</title>
+      <link>https://boro.cz/categories/boro2024/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/boro2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BORO2023</title>
+      <link>https://boro.cz/categories/boro2023/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/boro2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ostatní</title>
+      <link>https://boro.cz/categories/ostatn%C3%AD/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/ostatn%C3%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BORO2022</title>
+      <link>https://boro.cz/categories/boro2022/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/boro2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BORO2021</title>
+      <link>https://boro.cz/categories/boro2021/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/boro2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BORO2020</title>
+      <link>https://boro.cz/categories/boro2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/boro2020/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BORO2019</title>
+      <link>https://boro.cz/categories/boro2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://boro.cz/categories/boro2019/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
